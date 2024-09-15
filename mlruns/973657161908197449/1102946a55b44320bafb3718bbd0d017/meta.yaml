@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/github/MLFlow_Experiments/mlruns/973657161908197449/1102946a55b44320bafb3718bbd0d017/artifacts
+end_time: 1726430992921
+entry_point_name: ''
+experiment_id: '973657161908197449'
+lifecycle_stage: active
+run_id: 1102946a55b44320bafb3718bbd0d017
+run_name: bedecked-hen-645
+run_uuid: 1102946a55b44320bafb3718bbd0d017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726430992601
+status: 4
+tags: []
+user_id: rezaa

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/github/MLFlow_Experiments/mlruns/973657161908197449/d65494c3b3024ade809e1fe77b15127c/artifacts
+end_time: 1726430861656
+entry_point_name: ''
+experiment_id: '973657161908197449'
+lifecycle_stage: active
+run_id: d65494c3b3024ade809e1fe77b15127c
+run_name: abundant-mouse-290
+run_uuid: d65494c3b3024ade809e1fe77b15127c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726430861337
+status: 4
+tags: []
+user_id: rezaa

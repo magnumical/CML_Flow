@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/github/MLFlow_Experiments/mlruns/973657161908197449/b3526473ce1b428e99fb927a724ff48d/artifacts
+end_time: 1726431025930
+entry_point_name: ''
+experiment_id: '973657161908197449'
+lifecycle_stage: active
+run_id: b3526473ce1b428e99fb927a724ff48d
+run_name: likeable-cow-22
+run_uuid: b3526473ce1b428e99fb927a724ff48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726431011703
+status: 3
+tags: []
+user_id: rezaa

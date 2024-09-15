@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/github/MLFlow_Experiments/mlruns/973657161908197449/2c060389472543138f27fd58001e7f7a/artifacts
+end_time: 1726430929639
+entry_point_name: ''
+experiment_id: '973657161908197449'
+lifecycle_stage: active
+run_id: 2c060389472543138f27fd58001e7f7a
+run_name: trusting-squid-648
+run_uuid: 2c060389472543138f27fd58001e7f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726430929316
+status: 4
+tags: []
+user_id: rezaa

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/github/MLFlow_Experiments/mlruns/188756244970628976/26aa15ce6ef646e8b4bf5c744280117d/artifacts
+end_time: 1726431743367
+entry_point_name: ''
+experiment_id: '188756244970628976'
+lifecycle_stage: active
+run_id: 26aa15ce6ef646e8b4bf5c744280117d
+run_name: lr
+run_uuid: 26aa15ce6ef646e8b4bf5c744280117d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726431733864
+status: 3
+tags: []
+user_id: rezaa
